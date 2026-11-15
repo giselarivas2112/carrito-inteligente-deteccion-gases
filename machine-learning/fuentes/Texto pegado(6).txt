@@ -1,0 +1,1902 @@
+Faltan 50 segundos...
+Faltan 40 segundos...
+Faltan 30 segundos...
+Faltan 20 segundos...
+Faltan 10 segundos...
+
+CALIBRANDO SENSORES...
+Mantener en aire limpio.
+
+VALORES BASE:
+MQ-2: 950
+MQ-6: 849
+MQ-135: 1065
+LLAMA: 4095
+
+CALIBRACION COMPLETADA.
+
+SISTEMA LISTO.
+Iniciando monitoreo...
+
+DATA,ms,mq2,mq6,mq135,llama,riesgo,llama_detectada
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  848 | Base:  849 | Delta:   -1 | AO: 1.71 V | NORMAL
+MQ-135  | ADC: 1067 | Base: 1065 | Delta:   +2 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,90994,952,848,1067,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.71 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,92065,953,850,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1066 | Base: 1065 | Delta:   +1 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,93136,952,851,1066,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.71 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,94207,953,850,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  848 | Base:  849 | Delta:   -1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,95278,952,848,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,96349,955,850,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,97420,953,850,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,98491,954,852,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,99562,953,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  853 | Base:  849 | Delta:   +4 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,100633,954,853,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,101704,956,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  853 | Base:  849 | Delta:   +4 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,102775,954,853,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1067 | Base: 1065 | Delta:   +2 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,103846,955,851,1067,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1067 | Base: 1065 | Delta:   +2 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,104917,952,852,1067,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,105988,953,851,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,107059,953,852,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  849 | Base:  849 | Delta:   +0 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,108130,954,849,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,109201,953,851,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,110272,952,851,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,111343,954,851,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,112414,953,851,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,113485,953,851,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,114556,953,851,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,115627,953,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  951 | Base:  950 | Delta:   +1 | AO: 1.88 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,116698,951,850,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4061 | Base: 4095 | Delta:  +34 | Pin: 3.16 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,117769,954,850,1068,4061,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.71 V | NORMAL
+MQ-135  | ADC: 1068 | Base: 1065 | Delta:   +3 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,118840,952,850,1068,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.71 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,119911,953,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  849 | Base:  849 | Delta:   +0 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,120982,954,849,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,122053,955,852,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,123124,953,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  951 | Base:  950 | Delta:   +1 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,124195,951,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,125266,954,851,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.88 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,126337,953,852,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  953 | Base:  950 | Delta:   +3 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,127408,953,850,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1069 | Base: 1065 | Delta:   +4 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,128479,954,851,1069,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  849 | Base:  849 | Delta:   +0 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,129550,954,849,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.08 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,130621,955,852,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  851 | Base:  849 | Delta:   +2 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,131692,955,851,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  954 | Base:  950 | Delta:   +4 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  853 | Base:  849 | Delta:   +4 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,132763,954,853,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,133834,955,852,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  952 | Base:  950 | Delta:   +2 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  852 | Base:  849 | Delta:   +3 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,134905,952,852,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  850 | Base:  849 | Delta:   +1 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,135976,955,850,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  853 | Base:  849 | Delta:   +4 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,137047,955,853,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  855 | Base:  849 | Delta:   +6 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,138118,955,855,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1070 | Base: 1065 | Delta:   +5 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,139189,956,854,1070,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  855 | Base:  849 | Delta:   +6 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,140260,955,855,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,141331,955,854,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  853 | Base:  849 | Delta:   +4 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,142402,956,853,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,143473,955,854,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,144544,956,854,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  855 | Base:  849 | Delta:   +6 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,145615,956,855,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  957 | Base:  950 | Delta:   +7 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  855 | Base:  849 | Delta:   +6 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,146686,957,855,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  957 | Base:  950 | Delta:   +7 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,147757,957,854,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  959 | Base:  950 | Delta:   +9 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,148828,959,854,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  955 | Base:  950 | Delta:   +5 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  856 | Base:  849 | Delta:   +7 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,149899,955,856,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  959 | Base:  950 | Delta:   +9 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  856 | Base:  849 | Delta:   +7 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,150970,959,856,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  858 | Base:  849 | Delta:   +9 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,152041,956,858,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  958 | Base:  950 | Delta:   +8 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  856 | Base:  849 | Delta:   +7 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,153112,958,856,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  958 | Base:  950 | Delta:   +8 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  855 | Base:  849 | Delta:   +6 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1071 | Base: 1065 | Delta:   +6 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,154183,958,855,1071,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  956 | Base:  950 | Delta:   +6 | AO: 1.89 V | NORMAL
+MQ-6    | ADC:  857 | Base:  849 | Delta:   +8 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,155254,956,857,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  957 | Base:  950 | Delta:   +7 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  856 | Base:  849 | Delta:   +7 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,156325,957,856,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  957 | Base:  950 | Delta:   +7 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  854 | Base:  849 | Delta:   +5 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,157396,957,854,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  958 | Base:  950 | Delta:   +8 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  856 | Base:  849 | Delta:   +7 | AO: 1.72 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,158467,958,856,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  959 | Base:  950 | Delta:   +9 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  859 | Base:  849 | Delta:  +10 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,159538,959,859,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  959 | Base:  950 | Delta:   +9 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  857 | Base:  849 | Delta:   +8 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,160609,959,857,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  961 | Base:  950 | Delta:  +11 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  857 | Base:  849 | Delta:   +8 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,161680,961,857,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  959 | Base:  950 | Delta:   +9 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  857 | Base:  849 | Delta:   +8 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,162751,959,857,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  960 | Base:  950 | Delta:  +10 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  860 | Base:  849 | Delta:  +11 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,163822,960,860,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  961 | Base:  950 | Delta:  +11 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  858 | Base:  849 | Delta:   +9 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,164893,961,858,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  961 | Base:  950 | Delta:  +11 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  859 | Base:  849 | Delta:  +10 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,165964,961,859,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  961 | Base:  950 | Delta:  +11 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  859 | Base:  849 | Delta:  +10 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,167035,961,859,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  960 | Base:  950 | Delta:  +10 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  860 | Base:  849 | Delta:  +11 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,168106,960,860,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  962 | Base:  950 | Delta:  +12 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  859 | Base:  849 | Delta:  +10 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,169177,962,859,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  961 | Base:  950 | Delta:  +11 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  861 | Base:  849 | Delta:  +12 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,170248,961,861,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  962 | Base:  950 | Delta:  +12 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  858 | Base:  849 | Delta:   +9 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,171319,962,858,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  962 | Base:  950 | Delta:  +12 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,172390,962,862,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  861 | Base:  849 | Delta:  +12 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1072 | Base: 1065 | Delta:   +7 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,173461,963,861,1072,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,174532,963,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,175603,964,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,176674,963,862,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,177745,964,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  861 | Base:  849 | Delta:  +12 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,178816,965,861,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  860 | Base:  849 | Delta:  +11 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,179887,967,860,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,180958,964,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  968 | Base:  950 | Delta:  +18 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,182029,968,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,183100,966,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1073 | Base: 1065 | Delta:   +8 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,184171,964,862,1073,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,185242,966,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,186313,966,864,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,187384,964,865,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,188455,964,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,189526,966,864,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,190597,967,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,191668,964,863,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,192739,965,863,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,193810,965,863,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,194881,964,863,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,195952,965,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,197023,966,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,198094,965,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,199165,963,864,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,200236,964,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,201307,965,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,202378,964,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,203449,965,863,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.90 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,204520,965,862,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  860 | Base:  849 | Delta:  +11 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,205591,965,860,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,206662,965,862,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,207733,965,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,208804,965,863,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  861 | Base:  849 | Delta:  +12 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,209875,966,861,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,210946,965,864,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1074 | Base: 1065 | Delta:   +9 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,212017,966,863,1074,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,213088,965,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,214159,964,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,215230,965,864,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,216301,965,865,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,217372,967,863,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,218443,966,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  970 | Base:  950 | Delta:  +20 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,219514,970,864,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  866 | Base:  849 | Delta:  +17 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,220585,967,866,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.92 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,221656,967,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  968 | Base:  950 | Delta:  +18 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,222727,968,864,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  969 | Base:  950 | Delta:  +19 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  866 | Base:  849 | Delta:  +17 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,223798,969,866,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  969 | Base:  950 | Delta:  +19 | AO: 1.92 V | NORMAL
+MQ-6    | ADC:  867 | Base:  849 | Delta:  +18 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,224869,969,867,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  866 | Base:  849 | Delta:  +17 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,225940,967,866,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  866 | Base:  849 | Delta:  +17 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,227011,966,866,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,228082,967,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,229153,965,864,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,230224,965,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,231295,967,865,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  968 | Base:  950 | Delta:  +18 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,232366,968,865,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,233437,966,865,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  867 | Base:  849 | Delta:  +18 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,234508,966,867,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,235579,964,864,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,236650,967,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.92 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,237721,966,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,238792,967,865,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  968 | Base:  950 | Delta:  +18 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1079 | Base: 1065 | Delta:  +14 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,239863,968,865,1079,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  866 | Base:  849 | Delta:  +17 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1079 | Base: 1065 | Delta:  +14 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,240934,965,866,1079,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  968 | Base:  950 | Delta:  +18 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,242005,968,864,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,243076,967,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1079 | Base: 1065 | Delta:  +14 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,244147,966,865,1079,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,245218,967,863,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,246289,966,865,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  866 | Base:  849 | Delta:  +17 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1079 | Base: 1065 | Delta:  +14 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,247360,967,866,1079,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1078 | Base: 1065 | Delta:  +13 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,248431,965,864,1078,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  861 | Base:  849 | Delta:  +12 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,249502,964,861,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,250573,965,862,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.09 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,251644,963,863,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  860 | Base:  849 | Delta:  +11 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,252715,964,860,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,253786,964,862,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.73 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,254857,964,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,255928,965,863,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  861 | Base:  849 | Delta:  +12 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,256999,964,861,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,258070,963,862,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,259141,964,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,260212,965,863,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,261283,964,864,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  862 | Base:  849 | Delta:  +13 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,262354,966,862,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  966 | Base:  950 | Delta:  +16 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,263425,966,863,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,264496,965,864,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  967 | Base:  950 | Delta:  +17 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,265567,967,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  963 | Base:  950 | Delta:  +13 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,266638,963,863,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1075 | Base: 1065 | Delta:  +10 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,267709,965,864,1075,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,268780,965,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  864 | Base:  849 | Delta:  +15 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,269851,965,864,1076,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,270922,964,865,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  965 | Base:  950 | Delta:  +15 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  863 | Base:  849 | Delta:  +14 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1077 | Base: 1065 | Delta:  +12 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,271993,965,863,1077,4095,0,0
+====================================
+
+========== LECTURAS ==========
+MQ-2    | ADC:  964 | Base:  950 | Delta:  +14 | AO: 1.91 V | NORMAL
+MQ-6    | ADC:  865 | Base:  849 | Delta:  +16 | AO: 1.74 V | NORMAL
+MQ-135  | ADC: 1076 | Base: 1065 | Delta:  +11 | AO: 2.10 V | NORMAL
+LLAMA   | ADC: 4095 | Base: 4095 | Delta:   +0 | Pin: 3.17 V | SIN LLAMA
+
+========== ESTADO GENERAL ==========
+ESTADO: NORMAL
+DATA,273064,964,865,1076,4095,0,0
+====================================

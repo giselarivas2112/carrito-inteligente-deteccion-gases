@@ -1,0 +1,5 @@
+"""Entrada corta para capturar lecturas del ESP32."""
+from capturar_serial import main
+
+if __name__ == "__main__":
+    main()
